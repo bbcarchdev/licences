@@ -1,0 +1,6 @@
+[submodule "fragments"]
+	path = fragments
+	url = git://github.com/bbcarchdev/fragments.git
+[submodule "tools"]
+	path = tools
+	url = git://github.com/bbcarchdev/tools.git
